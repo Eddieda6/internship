@@ -57,10 +57,10 @@
 ### 原型设计  
 #### <a name="#21">交互及界面设计</a>
  **总览** 
-![总览](https://images.gitee.com/uploads/images/2019/1223/160113_c789e400_1831445.png "总览.png")  
+![总览](https://github.com/Eddieda6/internship/blob/master/%E6%80%BB%E8%A7%88.png)  
 
 **产品架构**
-![产品架构图](https://images.gitee.com/uploads/images/2019/1223/160708_e3528ccd_1831445.png "产品架构图.png") 
+![产品架构图](https://github.com/Eddieda6/internship/blob/master/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE.png) 
 
 #### <a name="#22">信息设计</a>
 - 2.附近页面使用了高德定位API的加值—————  
