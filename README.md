@@ -56,10 +56,12 @@
 
 ### 原型设计  
 #### <a name="#21">交互及界面设计</a>
- **总览** 
+ **1.总览**  
+ 
 ![总览](https://github.com/Eddieda6/internship/blob/master/%E6%80%BB%E8%A7%88.png)  
 
-**产品架构**
+**2.产品架构**  
+
 ![产品架构图](https://github.com/Eddieda6/internship/blob/master/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE.png) 
 
 #### <a name="#22">信息设计</a>
