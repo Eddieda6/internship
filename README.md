@@ -97,10 +97,23 @@
 
 ![捕获地标api](https://github.com/Eddieda6/internship/blob/master/%E6%8D%95%E8%8E%B7%E5%9C%B0%E6%A0%87.JPG)
 
-
 #### <a name="35">API(3)使用水平</a>
+- 百度通用物体及场景识别api：  
+
+![通用物体及场景识别api](https://github.com/Eddieda6/internship/blob/master/LOGO2.JPG)
 
 #### <a name="33">使用比较分析</a>
+- 百度图像识别api：  
+1. 使用技术文档：[快速入门：地标识别api使用文档](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/jk3bcxbih)   [通用物体和场景识别高级版](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Xk3bcxe21)    [logo识别](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Ok3bcxc59)
+2. 优点：百度api对于代码小白来说简单好上手；类别丰富、图像识别的下栏有多于十种
+3. 缺点：
+
+
+- 微软Azure计算机视觉SDK：  
+1. 使用技术文档：[快速入门：适用于 Python 的计算机视觉客户端库](https://docs.microsoft.com/zh-cn/azure/cognitive-services/computer-vision/quickstarts-sdk/python-sdk)  
+2. 优点：
+3. 缺点：
+
 
 
 #### <a name="34">操作后风险报告</a>
