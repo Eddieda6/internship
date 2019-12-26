@@ -103,17 +103,12 @@
 ![通用物体及场景识别api](https://github.com/Eddieda6/internship/blob/master/LOGO2.JPG)
 
 #### <a name="33">使用比较分析</a>
-- 百度图像识别api：  
-1. 使用技术文档：[快速入门：地标识别api使用文档](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/jk3bcxbih)   [通用物体和场景识别高级版](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Xk3bcxe21)    [logo识别](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Ok3bcxc59)
-2. 优点：百度api对于代码小白来说简单好上手；类别丰富、图像识别的下栏有多于十种
-3. 缺点：
 
-
-- 微软Azure计算机视觉SDK：  
-1. 使用技术文档：[快速入门：适用于 Python 的计算机视觉客户端库](https://docs.microsoft.com/zh-cn/azure/cognitive-services/computer-vision/quickstarts-sdk/python-sdk)  
-2. 优点：一个SDK就涵盖了超过八种图像识别能力，包括获取图像说明、获取图像类别、获取图像标记、检测物体、检测人脸、检测品牌、检测成人、色情或血腥内容，更有获取图像配色方案等高阶能力操作，只需要调用一个SDK就可以做到超过八种的识别分析能力。提供了github上的源代码。
-3. 缺点：针对受众偏向欧美地区，中国地区相对较少人使用，甚至在定价上没有提供中国区域的服务；
-
+|              | 百度图像识别api                                                                                                                                                                                                                                    | 微软Azure计算机视觉SDK                                                                                                                                                                                                                                   |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 技术文档链接 | <br>[地标识别](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/jk3bcxbih)</br>   <br>[通用物体和场景识别高级版](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Xk3bcxe21)</br>    <br>[logo识别](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Ok3bcxc59)</br> | [快速入门：计算机视觉客户端库](https://docs.microsoft.com/zh-cn/azure/cognitive-services/computer-vision/quickstarts-sdk/python-sdk)                                                                                                                     |
+| 优点         | 百度api对于代码小白来说简单好上手；类别丰富、图像识别的下栏有多于十种                                                                                                                                                                                | 个SDK就涵盖了超过八种图像识别能力，包括获取图像说明/类别/标记、检测物体/人脸/品牌、检测色情或血腥内容，更有获取图像配色方案等高阶能力操作，只需要调用一个SDK就可以做到超过八种的识别分析能力。并提供了github上的源代码。 |
+| 缺点         | 不够全面，多个API调用麻烦，需要分开调用，技术文档不够azure丰富                                                                                                                                                                                                            | 针对受众偏向欧美地区，中国地区相对较少人使用，甚至在定价上没有提供中国区域的服务；                                                                                                                                                                       |
 
 
 #### <a name="34">操作后风险报告</a>
