@@ -122,7 +122,7 @@
 
 #### <a name="34">操作后风险报告</a>
   - 技术文档：  
-  [logo识别](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Ok3bcxc59)和(通用物体和场景识别)[https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Xk3bcxe21]  
+  [logo识别](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Ok3bcxc59)和[通用物体和场景识别](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Xk3bcxe21)  
   - 图像识别功能：  
   超过2万类商品logo，可准确识别图片中品牌logo的名称和所在图片中的位置，亦同时可以自建品牌logo图库，快速创建专属品牌logo图库，通过调用入库接口上传图片，支持海量图片入库。  
 - 未来发展所需：  
@@ -133,8 +133,8 @@
   - 可替代的程序库：  
   本产品图像识别可替代的程序库还未实现，我们采用更加成熟的图像识别API；
   
-    - 输入输出限制及定价： 
-  [输入输出限制及定价](https://gitee.com/NFUNM172015260/internship/blob/master/price.JPG)
+  - 输入输出限制及定价： 
+  ![输入输出限制及定价](https://gitee.com/NFUNM172015260/internship/blob/master/price.JPG)
 
 
 
