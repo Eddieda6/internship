@@ -134,8 +134,7 @@
   本产品图像识别可替代的程序库还未实现，我们采用更加成熟的图像识别API；
   
   - 输入输出限制及定价： 
-  ![输入输出限制及定价](![输入图片说明](https://images.gitee.com/uploads/images/2019/1226/212807_0a65949c_1831445.jpeg "price.JPG")
-)
+  ![输入输出限制及定价](https://images.gitee.com/uploads/images/2019/1226/212807_0a65949c_1831445.jpeg "price.JPG")
 
 
 
