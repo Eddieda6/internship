@@ -58,11 +58,12 @@
 #### <a name="21">交互及界面设计</a>
  **1.总览**  
  
-![总览](https://github.com/Eddieda6/internship/blob/master/%E6%80%BB%E8%A7%88.png)  
+![总览](https://images.gitee.com/uploads/images/2019/1223/160113_c789e400_1831445.png "总览.png")  
 
-**2.产品架构**  
 
-![产品架构图](https://github.com/Eddieda6/internship/blob/master/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE.png) 
+**2.产品架构**    
+
+![产品架构图](https://images.gitee.com/uploads/images/2019/1223/160708_e3528ccd_1831445.png "产品架构图.png") 
 
 #### <a name="22">信息设计</a>
 - 2.附近页面使用了高德定位API的加值—————  
@@ -86,21 +87,17 @@
 - 4.拍照识图————用户可以拍照识别出品牌logo信息及企业信息    
 
 ### API输出
-#### <a name="31">API(1)使用水平</a>
+#### <a name="31">API(1)使用水平</a>  
 - 百度品牌logo识别api：  
+![1](https://images.gitee.com/uploads/images/2019/1226/155532_a12157f6_1831445.jpeg "捕获LOGO.JPG")
 
-![avatar](捕获LOGO.JPG)
-
-
-#### <a name="32">API(2)使用水平</a>
+#### <a name="32">API(2)使用水平</a>  
 - 百度地标识别api：  
-
-![捕获地标api](https://github.com/Eddieda6/internship/raw/master/%E6%8D%95%E8%8E%B7%E5%9C%B0%E6%A0%87.JPG)
+![2](https://images.gitee.com/uploads/images/2019/1226/155551_e117f337_1831445.jpeg "捕获地标.JPG")  
 
 #### <a name="35">API(3)使用水平</a>
 - 百度通用物体及场景识别api：  
-
-![通用物体及场景识别api](https://github.com/Eddieda6/internship/blob/master/LOGO2.JPG)
+![3](https://images.gitee.com/uploads/images/2019/1226/155606_aaa4b710_1831445.jpeg "LOGO2.JPG")  
 
 #### <a name="33">使用比较分析</a>
 
