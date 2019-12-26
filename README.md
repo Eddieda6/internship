@@ -89,7 +89,7 @@
 #### <a name="31">API(1)使用水平</a>
 - 百度品牌logo识别api：  
 
-![捕获logo-api](https://github.com/Eddieda6/internship/blob/master/%E6%8D%95%E8%8E%B7LOGO.JPG)
+![avatar](捕获LOGO.JPG)
 
 
 #### <a name="32">API(2)使用水平</a>
