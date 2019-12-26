@@ -95,7 +95,7 @@
 #### <a name="32">API(2)使用水平</a>
 - 百度地标识别api：  
 
-![捕获地标api](https://github.com/Eddieda6/internship/blob/master/%E6%8D%95%E8%8E%B7%E5%9C%B0%E6%A0%87.JPG)
+![捕获地标api](https://github.com/Eddieda6/internship/raw/master/%E6%8D%95%E8%8E%B7%E5%9C%B0%E6%A0%87.JPG)
 
 #### <a name="35">API(3)使用水平</a>
 - 百度通用物体及场景识别api：  
