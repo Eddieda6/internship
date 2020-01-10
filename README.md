@@ -1,7 +1,8 @@
 # API_internship
 #### 介绍
 本仓库存放“实习宝”产品文档： **在路上，我们为你提供更全面的实习信息。**  
-
+#### 20x20带narration介绍
+[https://github.com/Eddieda6/internship/blob/master/1.mp4](https://github.com/Eddieda6/internship/blob/master/1.mp4)
 #### “实习宝”产品文档版本
 
 | 产品状态         | 未完成          |
